@@ -17,6 +17,9 @@ Feel free to use any tools or libraries in Python needed to accomplish this task
 # Given code checked according to sample input & output given in 
 https://docs.google.com/document/d/1u5HOIw_asgWVWjdK-FiNJbu1SlVhCkJWzYNN9IfO5qM/edit
 
+## Requirements:
+tkinter and pip
+
 ## Description of execution
 # Code: Provided in newinter.py file
 # To run file: open python idle or any other python editor
